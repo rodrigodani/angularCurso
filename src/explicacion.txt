@@ -1,0 +1,12 @@
+app adentro
+assets recursos estaticos imagenes sonidos
+
+
+enviroments 
+variables de entorno
+
+main.ts no se toca usualmente
+
+styless.css estilos para toda la aplicacion 
+
+test.ts configuracion de ambiente de pruebas

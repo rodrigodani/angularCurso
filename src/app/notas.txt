@@ -1,0 +1,6 @@
+todos los app.component
+los 4 hacen relacion a un componente .spec a pruebas
+.ts clase de typeScript 
+
+app.module.ts
+es un  agrupador de modulos 

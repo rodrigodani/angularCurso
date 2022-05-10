@@ -1,0 +1,4 @@
+comando en la terminal
+
+
+ng generate component nombre path
